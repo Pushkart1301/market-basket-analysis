@@ -23,3 +23,4 @@ The dataset used in this analysis is `data/Groceries_dataset.csv` (provided). It
 - Python
 - Jupyter Notebook
 - Libraries: pandas, numpy, matplotlib, seaborn, mlxtend
+# market-basket-analysis
